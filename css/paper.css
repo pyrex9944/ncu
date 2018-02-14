@@ -370,3 +370,10 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+.carousel-caption h3{
+    padding: 10px;
+    background: rgba(0,0,0,.6);
+}
+.carousel-caption{
+    text-shadow:none;
+}
