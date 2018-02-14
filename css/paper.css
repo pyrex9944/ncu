@@ -325,7 +325,7 @@ body {
     }
 }
 
-.menu ul {
+.menuu ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -333,18 +333,18 @@ body {
     background-color: #333;
 }
 
-.menu li {
+.menuu li {
     float: left;
 }
 
-.menu li a, .dropbtn {
+.menuu li a, .dropbtn {
     display: inline-block;
     color: white;
     text-align: left;
     text-decoration: none;
 }
 
-.menu li.dropdown {
+.menuu li.dropdown {
     display: block;
 }
 
